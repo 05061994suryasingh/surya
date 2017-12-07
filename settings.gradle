@@ -1,0 +1,1 @@
+include ':app', ':layoutandviewcontrol', ':activityexample', ':contentproviderexample', ':tweenapplication', ':sqldatabaseassignment'

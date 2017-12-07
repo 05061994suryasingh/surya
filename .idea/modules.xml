@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activityexample/activityexample.iml" filepath="$PROJECT_DIR$/activityexample/activityexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentproviderexample/contentproviderexample.iml" filepath="$PROJECT_DIR$/contentproviderexample/contentproviderexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutandviewcontrol/layoutandviewcontrol.iml" filepath="$PROJECT_DIR$/layoutandviewcontrol/layoutandviewcontrol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqldatabaseassignment/sqldatabaseassignment.iml" filepath="$PROJECT_DIR$/sqldatabaseassignment/sqldatabaseassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surya.iml" filepath="$PROJECT_DIR$/surya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweenapplication/tweenapplication.iml" filepath="$PROJECT_DIR$/tweenapplication/tweenapplication.iml" />
+    </modules>
+  </component>
+</project>
